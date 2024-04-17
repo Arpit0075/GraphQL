@@ -1,0 +1,4 @@
+buffer, streams, eventemitters, cluster,blob
+
+
+Blob is used to represent binary data that is used in HTTP requests and responses, while Buffer is used in Node. js to manipulate binary data for file I/O operations.
